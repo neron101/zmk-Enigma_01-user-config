@@ -72,9 +72,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - RIGHT GUI
+  - '-'
+  - '='
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -115,10 +115,10 @@ layers:
   - ''
   - ''
   - ''
-  - ''
-  - '&mkp MB1'
-  - '&mmv MOVE_UP'
-  - '&mkp MB2'
+  - RIGHT GUI
+  - '='
+  - '-'
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
