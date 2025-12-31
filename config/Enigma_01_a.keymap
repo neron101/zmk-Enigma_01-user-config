@@ -182,7 +182,7 @@
                   &kp TAB         &kp CLCK
 &kp Q             &kp W           &kp E         &kp R        &kp T        &kp Y        &kp U            &kp I          &kp O           &kp P
 &kp A             &kp S           &kp D         &kp F        &kp G        &kp H        &kp J            &kp K          &kp L           &kp MINUS
-&kp Z             &kp X           &kp C         &kp V        &kp B        &kp N        &kp M            &kp COMMA      &kp DOT         &kp SLASH
+&kp Z             &kp X           &kp C         &kp V        &kp B        &kp N        &kp M            &kp COMMA      &kp DOT         &kp RS(SLASH)
 &kp LEFT_CONTROL  &kp LEFT_SHIFT  &kp LEFT_GUI  &lt 1 SPACE  &lt 1 SPACE  &lt 2 ENTER  &lt 2 BACKSPACE  &kp BACKSPACE  &kp LANGUAGE_2  &kp LANGUAGE_1
             >;
 
