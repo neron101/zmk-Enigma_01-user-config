@@ -39,7 +39,7 @@ layers:
   - {t: SPACE, h: Ctrl+_Num_}
   - {t: SPACE, h: Ctrl+_Num_}
   - {t: ENTER, h: Shift+_Mouse_}
-  - {t: BACKSPACE, h: Shift+_Mouse_}
+  - {t: ENTER, h: Shift+_Mouse_}
   - BACKSPACE
   - LANGUAGE 2
   - LANGUAGE 1
