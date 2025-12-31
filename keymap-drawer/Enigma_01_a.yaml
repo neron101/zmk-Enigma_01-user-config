@@ -42,7 +42,7 @@ layers:
   - {t: ENTER, h: Shift+_Mouse_}
   - BACKSPACE
   - BACKSPACE
-  - TAB
+  - {t: TAB, h: setting}
   Ctrl+_Num_:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -165,13 +165,13 @@ layers:
   - '&bootloader'
   - ''
   - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {type: held}
-  - {type: held}
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
   to_ALT: [Sft+TAB, TAB, '', '', '', F4, '', '', '', '', PAGE UP, '', '', '', '', '', '', '', '', '', PAGE DOWN, '', '', '', '', '', '', '', '', '', UP, '', '', '',
     '', '', '', '', '', LEFT, DOWN, RIGHT]
 combos:
